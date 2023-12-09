@@ -1,0 +1,93 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #FFFACE;
+}
+
+h2{
+  font-family: 'Source Code Pro';
+  display: flex;
+  justify-content: center;
+  background-color: #CED3FF;
+}
+
+img{
+  object-fit: cover;
+  display: inline;
+  border: solid 5px #CED3FF;
+}
+
+.text{
+  font-family: 'Raleway';
+  border: solid 3px #CED3FF;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 7px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.images{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.images2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.david1{
+  height: 200px;
+  width: 150px;
+}
+
+.david2{
+  height: 200px;
+  width: 250px;
+}
+
+.sofia1{
+  height: 200px;
+  width: 150px;
+}
+
+.sofia2{
+  height: 200px;
+  width: 150px;
+}
+
+.larsen1{
+  height: 200px;
+  width: 150px;
+}
+
+.larsen2{
+  height: 200px;
+  width: 150px;
+}
+
+.me1{
+  height: 200px;
+  width: 150px;
+}
+
+.me2{
+  height: 200px;
+  width: 250px;
+}
+
+/*   
+  "david1" 
+  "david2" 
+  "sofia1" 
+  "sofia2" 
+  "larsen1"
+  "larsen2" 
+  "me1"
+  "me2" */
